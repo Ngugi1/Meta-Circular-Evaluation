@@ -1,1 +1,1 @@
-![report](hop-project-sngugi.pdf)
+![report](demo.png)
